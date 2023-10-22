@@ -23,3 +23,5 @@
 - Telegram Notification
 - Login-with (Google, Apple)
 - JS Inject 
+
+TG : https://t.me/xenos_admin
